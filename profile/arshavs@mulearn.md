@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I am  Arsha VS , a First-Year Robotics and Artificial Intelligce  student at Government Engineering college Idukki. I am passionate about technology, problem-solving, and continuous learning. My interests include Cyber Security, Backend Development, Python programming,robotics and building practical software solutions.
+> I am  Arsha Vs , a First-Year Robotics and Artificial Intelligce  student at Government Engineering college Idukki. I am passionate about technology, problem-solving, and continuous learning. My interests include Cyber Security, Backend Development, Python programming,robotics and building practical software solutions.
 
 
 I actively participate in community-driven learning initiatives through μLearn . I enjoy collaborating with fellow learners, participating in technical programs, and exploring emerging technologies. Through μFIFA, I aim to strengthen my technical skills, contribute to open-source projects, expand my network, and grow as a developer while building meaningful proof of work.
